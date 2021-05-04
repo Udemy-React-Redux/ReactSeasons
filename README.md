@@ -1,4 +1,5 @@
 # Seasons
+<a href="reactseason.netlify.app">Live versions</a> \
 Simple application that grabs users location and displays if it is summer or winter. \
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
